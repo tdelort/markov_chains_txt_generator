@@ -1,0 +1,199 @@
+digraph G {
+"strangers"
+"strangers" -> "to" [label="1 (1)"]
+"give"
+"give" -> "you" [label="1 (6)"]
+"full"
+"full" -> "commitments" [label="1 (1)"]
+"the"
+"the" -> "rules" [label="0.333333 (1)"]
+"the" -> "game" [label="0.666667 (2)"]
+"you"
+"you" -> "know" [label="0.0277778 (1)"]
+"you" -> "wouldnt" [label="0.0277778 (1)"]
+"you" -> "how" [label="0.0555556 (2)"]
+"you" -> "understand" [label="0.0555556 (2)"]
+"you" -> "up" [label="0.166667 (6)"]
+"you" -> "down" [label="0.166667 (6)"]
+"you" -> "never" [label="0.25 (9)"]
+"you" -> "cry" [label="0.166667 (6)"]
+"you" -> "weve" [label="0.0555556 (2)"]
+"you" -> "ask" [label="0.0277778 (1)"]
+"desert"
+"desert" -> "you" [label="1 (6)"]
+"i"
+"i" -> "do" [label="0.25 (1)"]
+"i" -> "a" [label="0.25 (1)"]
+"i" -> "just" [label="0.5 (2)"]
+"to"
+"to" -> "love" [label="0.2 (1)"]
+"to" -> "say" [label="0.6 (3)"]
+"to" -> "see" [label="0.2 (1)"]
+"but"
+"but" -> "youre" [label="1 (2)"]
+"known"
+"known" -> "each" [label="1 (2)"]
+"around"
+"around" -> "and" [label="1 (6)"]
+"a"
+"a" -> "full" [label="0.142857 (1)"]
+"a" -> "lie" [label="0.857143 (6)"]
+"were"
+"were" -> "no" [label="0.333333 (1)"]
+"were" -> "gonna" [label="0.666667 (2)"]
+"your"
+"your" -> "hearts" [label="1 (2)"]
+"know"
+"know" -> "the" [label="0.6 (3)"]
+"know" -> "whats" [label="0.4 (2)"]
+"let"
+"let" -> "you" [label="1 (6)"]
+"no"
+"no" -> "strangers" [label="1 (1)"]
+"too"
+"too" -> "shy" [label="0.666667 (2)"]
+"too" -> "blind" [label="0.333333 (1)"]
+"love"
+"love" -> "you" [label="1 (1)"]
+"up"
+"up" -> "never" [label="1 (6)"]
+"rules"
+"rules" -> "and" [label="1 (1)"]
+"gonna"
+"gonna" -> "give" [label="0.157895 (6)"]
+"gonna" -> "let" [label="0.157895 (6)"]
+"gonna" -> "run" [label="0.157895 (6)"]
+"gonna" -> "make" [label="0.157895 (6)"]
+"gonna" -> "say" [label="0.157895 (6)"]
+"gonna" -> "tell" [label="0.157895 (6)"]
+"gonna" -> "play" [label="0.0526316 (2)"]
+"and"
+"and" -> "so" [label="0.0625 (1)"]
+"and" -> "desert" [label="0.375 (6)"]
+"and" -> "hurt" [label="0.375 (6)"]
+"and" -> "were" [label="0.125 (2)"]
+"and" -> "if" [label="0.0625 (1)"]
+"so"
+"so" -> "do" [label="0.333333 (1)"]
+"so" -> "long" [label="0.666667 (2)"]
+"wanna"
+"wanna" -> "tell" [label="1 (2)"]
+"do"
+"do" -> "i" [label="1 (2)"]
+"we"
+"we" -> "both" [label="0.5 (2)"]
+"we" -> "know" [label="0.5 (2)"]
+"commitments"
+"commitments" -> "what" [label="1 (1)"]
+"make"
+"make" -> "you" [label="1 (8)"]
+"what"
+"what" -> "im" [label="1 (1)"]
+"im"
+"im" -> "thinking" [label="0.25 (1)"]
+"im" -> "feeling" [label="0.75 (3)"]
+"thinking"
+"thinking" -> "of" [label="1 (1)"]
+"of"
+"of" -> "you" [label="1 (1)"]
+"it"
+"it" -> "say" [label="0.166667 (1)"]
+"it" -> "inside" [label="0.333333 (2)"]
+"it" -> "and" [label="0.166667 (1)"]
+"it" -> "to" [label="0.166667 (1)"]
+"it" -> "i" [label="0.166667 (1)"]
+"goodbye"
+"goodbye" -> "never" [label="1 (6)"]
+"wouldnt"
+"wouldnt" -> "get" [label="1 (1)"]
+"get"
+"get" -> "this" [label="1 (1)"]
+"this"
+"this" -> "from" [label="1 (1)"]
+"from"
+"from" -> "any" [label="1 (1)"]
+"inside"
+"inside" -> "we" [label="1 (2)"]
+"any"
+"any" -> "other" [label="1 (1)"]
+"other"
+"other" -> "guy" [label="0.333333 (1)"]
+"other" -> "for" [label="0.666667 (2)"]
+"down"
+"down" -> "never" [label="1 (6)"]
+"hearts"
+"hearts" -> "been" [label="1 (2)"]
+"for"
+"for" -> "so" [label="1 (2)"]
+"guy"
+"guy" -> "i" [label="1 (1)"]
+"just"
+"just" -> "wanna" [label="1 (2)"]
+"tell"
+"tell" -> "you" [label="0.222222 (2)"]
+"tell" -> "a" [label="0.666667 (6)"]
+"tell" -> "me" [label="0.111111 (1)"]
+"how"
+"how" -> "im" [label="1 (3)"]
+"been"
+"been" -> "aching" [label="0.5 (2)"]
+"been" -> "going" [label="0.5 (2)"]
+"feeling"
+"feeling" -> "gotta" [label="0.666667 (2)"]
+"feeling" -> "dont" [label="0.333333 (1)"]
+"gotta"
+"gotta" -> "make" [label="1 (2)"]
+"understand"
+"understand" -> "never" [label="1 (2)"]
+"aching"
+"aching" -> "but" [label="1 (2)"]
+"never"
+"never" -> "gonna" [label="1 (36)"]
+"run"
+"run" -> "around" [label="1 (6)"]
+"cry"
+"cry" -> "never" [label="1 (6)"]
+"say"
+"say" -> "goodbye" [label="0.6 (6)"]
+"say" -> "it" [label="0.4 (4)"]
+"lie"
+"lie" -> "and" [label="1 (6)"]
+"hurt"
+"hurt" -> "you" [label="1 (6)"]
+"weve"
+"weve" -> "known" [label="1 (2)"]
+"each"
+"each" -> "other" [label="1 (2)"]
+"long"
+"long" -> "your" [label="1 (2)"]
+"youre"
+"youre" -> "too" [label="1 (3)"]
+"shy"
+"shy" -> "to" [label="1 (2)"]
+"both"
+"both" -> "know" [label="1 (2)"]
+"whats"
+"whats" -> "been" [label="1 (2)"]
+"going"
+"going" -> "on" [label="1 (4)"]
+"on"
+"on" -> "going" [label="0.5 (2)"]
+"on" -> "we" [label="0.5 (2)"]
+"game"
+"game" -> "and" [label="1 (2)"]
+"play"
+"play" -> "it" [label="1 (2)"]
+"if"
+"if" -> "you" [label="1 (1)"]
+"ask"
+"ask" -> "me" [label="1 (1)"]
+"me"
+"me" -> "how" [label="0.5 (1)"]
+"me" -> "youre" [label="0.5 (1)"]
+"dont"
+"dont" -> "tell" [label="1 (1)"]
+"blind"
+"blind" -> "to" [label="1 (1)"]
+"see"
+"see" -> "never" [label="1 (1)"]
+}
